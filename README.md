@@ -1,3 +1,4 @@
+
 # BPM_Tracker
 
 This repo contains the three different methods that i ran and tested out, to find the BPM or tempo of an audio. 
@@ -18,6 +19,8 @@ This repo contains the three different methods that i ran and tested out, to fin
 * It provides the building blocks necessary to create music information retrieval systems.
 * Has no required dependencies ther than installing librosa python package..
 
-The analysis of their performance and efficiency is depicted below.
+The analysis of their performance and efficiency is depicted below. We see that bpm_wave performs the best in predicting the correct BPM in the three test audios.
 
-![plot](https://picresize.com/popup.html?images/rsz_screenshot_from_2021-07-06_16-56-33.jpg)
+![rsz_screenshot_from_2021-07-06_17-11-11](https://user-images.githubusercontent.com/60852260/124594293-4253d280-de7d-11eb-8e04-6ed313749ad4.png)
+![rsz_screenshot_from_2021-07-06_17-12-59](https://user-images.githubusercontent.com/60852260/124594533-88a93180-de7d-11eb-9144-da6d7082f948.png)
+![rsz_screenshot_from_2021-07-06_17-17-24](https://user-images.githubusercontent.com/60852260/124595025-1e44c100-de7e-11eb-95e9-a575d87d80a8.png)
