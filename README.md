@@ -21,4 +21,4 @@ This repo contains the three different methods that i ran and tested out, to fin
 The analysis of their performance and efficiency is depicted below.
 
 [!plot](https://picresize.com/popup.html?images/rsz_screenshot_from_2021-07-06_16-56-33.jpg)
-
+<a rel="some text">![Foo](https://picresize.com/popup.html?images/rsz_screenshot_from_2021-07-06_16-56-33.jpg)</a>
