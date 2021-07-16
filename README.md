@@ -25,7 +25,13 @@ Test Audio 2 -> Blinding Lights (by the Weeknd)\
 Test Audio 3 -> Yesterday ( by the Beatles)\
 ![rsz_screenshot_from_2021-07-06_17-11-11](https://user-images.githubusercontent.com/60852260/124594293-4253d280-de7d-11eb-8e04-6ed313749ad4.png)\
 ![rsz_screenshot_from_2021-07-06_17-12-59](https://user-images.githubusercontent.com/60852260/124594533-88a93180-de7d-11eb-9144-da6d7082f948.png)\
-![rsz_screenshot_from_2021-07-06_17-17-24](https://user-images.githubusercontent.com/60852260/124595025-1e44c100-de7e-11eb-95e9-a575d87d80a8.png)\
+![rsz_screenshot_from_2021-07-06_17-17-24](https://user-images.githubusercontent.com/60852260/124595025-1e44c100-de7e-11eb-95e9-a575d87d80a8.png)
 
+Additional test cases run for [bpm_librosa.py](https://github.com/arnav8/BPM_Tracker/blob/main/bpm_librosa.py)\
+Actual BPM &nbsp;&nbsp;&nbsp;&nbsp; | Predicted BPM\
+128  &nbsp;&nbsp;&nbsp;&nbsp; | 129\
+110 &nbsp;&nbsp;&nbsp;&nbsp; | 107\
+83 &nbsp;&nbsp;&nbsp;&nbsp; | 83\
+152  &nbsp;&nbsp;&nbsp;&nbsp; | 151
 
 Lastly, I also found this approach for [Beat Tracking using Deep Neural Networks](https://dida.do/blog/beat-tracking-with-deep-neural-networks)
