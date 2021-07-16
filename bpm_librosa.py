@@ -6,7 +6,7 @@ y, sr = librosa.load(filename)
 
 tempo, beat_frames = librosa.beat.beat_track(y=y, sr=sr)
 
-print('Tempo', tempo)
+print('Tempo', round(tempo))
 
 beat_times = librosa.frames_to_time(beat_frames, sr=sr)
 
